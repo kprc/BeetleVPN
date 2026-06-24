@@ -1,0 +1,8 @@
+framework module "Macdss" {
+	header "ref.h"
+    header "Androidlib.objc.h"
+    header "Universe.objc.h"
+    header "Macdss.h"
+
+    export *
+}

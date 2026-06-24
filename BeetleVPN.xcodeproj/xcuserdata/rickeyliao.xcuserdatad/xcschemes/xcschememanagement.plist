@@ -7,7 +7,25 @@
 		<key>BeetleVPN.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>PacketTunnel.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2E26D8C82FB9F9B90097E229</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E754DF22FD39E8B004EBA0D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
