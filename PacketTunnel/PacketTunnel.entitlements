@@ -4,14 +4,9 @@
 <dict>
 	<key>com.apple.developer.networking.networkextension</key>
 	<array>
-		<string>hotspot-provider</string>
-		<string>url-filter-provider</string>
-		<string>relay</string>
-		<string>dns-settings</string>
-		<string>dns-proxy-systemextension</string>
-		<string>content-filter-provider-systemextension</string>
-		<string>app-proxy-provider-systemextension</string>
-		<string>packet-tunnel-provider-systemextension</string>
+		<string>packet-tunnel-provider</string>
+		<string>app-proxy-provider</string>
+		<string>content-filter-provider</string>
 	</array>
 	<key>com.apple.security.application-groups</key>
 	<array>

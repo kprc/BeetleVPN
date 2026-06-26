@@ -21,7 +21,7 @@ class PacketTunnelProvider: NEPacketTunnelProvider {
         completionHandler: @escaping (Error?) -> Void
     ) {
 
-        NSLog("VPN Start")
+        NSLog("VPN Start...")
         
         guard let opt = options else{
             print("option is nil")
